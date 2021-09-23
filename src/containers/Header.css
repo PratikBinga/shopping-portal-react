@@ -1,0 +1,14 @@
+.headerNameWrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.wrapperNameandMenu {
+  display: flex;
+}
+
+.ui.grid.container {
+  /* width: 933px;
+  margin-left: auto !important; */
+  margin-right: 20px !important;
+}
